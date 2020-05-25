@@ -75,9 +75,8 @@ html {
 }
 
 .programms {
-    display:block;
-    margin:auto;
-    max-height: 100px;
+    max-width: 100%;
+    max-height: 200px;
 }
 
 .certificates {
