@@ -1,3 +1,7 @@
+html {
+    font-family: roboto;
+}
+
 .navbar-brand {
     font-family: 'Baloo Thambi 2', cursive;
     font-weight: 600;
